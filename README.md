@@ -1,7 +1,7 @@
 <img src="./readmeAssets/capa_readme.svg" width="100%"/>
 <h1>
   <img src="./readmeAssets/logo_readme.svg" align="right" width="310px"/>
-  🔺Treinamento Técnico 2025.1🔺
+  🔺Treinamento Técnico 2026.1🔺
 </h1>
 
 Este repositório é dedicado ao projeto construído pelos instrutores desenvolvedores do Treinamento Técnico de 2026.1 ofertado pela EJCM🏯.
