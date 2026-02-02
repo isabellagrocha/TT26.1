@@ -9,7 +9,7 @@ Os projetos desenvolvidos ao longo do treinamento serão salvos em diferentes br
 
 ### 🔗Links: 
 
-<!-- - [Protótipo no Figma](https://www.figma.com/) --> 
+<!-- - [Protótipo no Figma](https://www.figma.com/) --> https://www.figma.com/design/JIYx2W0f7qp0Y0sfNTtu36/Trabalho-final---TT-2025.2?node-id=0-1&t=1PCCKJ848L6ScGd0-1
 
 <br/>
 <br/>
