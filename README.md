@@ -4,12 +4,12 @@
   🔺Treinamento Técnico 2025.1🔺
 </h1>
 
-Este repositório é dedicado ao projeto construído pelos instrutores desenvolvedores do Treinamento Técnico de 2025.1 ofertado pela EJCM🏯.
+Este repositório é dedicado ao projeto construído pelos instrutores desenvolvedores do Treinamento Técnico de 2026.1 ofertado pela EJCM🏯.
 Os projetos desenvolvidos ao longo do treinamento serão salvos em diferentes branchs. Também é possível visualizar os protótipos no Figma pelos links abaixo.
 
-### 🔗Links
+### 🔗Links: 
 
-<!-- - [Protótipo no Figma](https://www.figma.com/) -->
+<!-- - [Protótipo no Figma](https://www.figma.com/) --> 
 
 <br/>
 <br/>
